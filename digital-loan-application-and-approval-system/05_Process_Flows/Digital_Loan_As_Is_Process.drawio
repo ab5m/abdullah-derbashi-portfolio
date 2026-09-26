@@ -1,0 +1,145 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="WaVsGLQ483EtMmr1seqI">
+    <mxGraphModel dx="1471" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" value="&lt;p&gt;&lt;code dir=&quot;ltr&quot;&gt;As-Is Loan Application Process&lt;/code&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="750" width="810" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-2" parent="tKead_2X9lGI_ZXT4rv2-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="Applicant" vertex="1">
+          <mxGeometry height="210" width="810" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-10" edge="1" parent="tKead_2X9lGI_ZXT4rv2-2" source="tKead_2X9lGI_ZXT4rv2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-5" parent="tKead_2X9lGI_ZXT4rv2-2" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;code&gt;Start&lt;/code&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-11" edge="1" parent="tKead_2X9lGI_ZXT4rv2-2" source="tKead_2X9lGI_ZXT4rv2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-6" parent="tKead_2X9lGI_ZXT4rv2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;Visit branch or contact bank&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="240" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-7" parent="tKead_2X9lGI_ZXT4rv2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;Submit paper application and&amp;nbsp;&lt;/code&gt;&lt;code&gt;documents&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="540" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-17" parent="tKead_2X9lGI_ZXT4rv2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;Provide missing documents&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="540" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-3" parent="tKead_2X9lGI_ZXT4rv2-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="&lt;li&gt;Loan Operations&lt;/li&gt;" vertex="1">
+          <mxGeometry height="230" width="810" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-13" edge="1" parent="tKead_2X9lGI_ZXT4rv2-3" source="tKead_2X9lGI_ZXT4rv2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tKead_2X9lGI_ZXT4rv2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-8" parent="tKead_2X9lGI_ZXT4rv2-3" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;Receive and register application&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="50" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-15" edge="1" parent="tKead_2X9lGI_ZXT4rv2-3" source="tKead_2X9lGI_ZXT4rv2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-16" connectable="0" parent="tKead_2X9lGI_ZXT4rv2-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;NO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1617" y="8" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-9" parent="tKead_2X9lGI_ZXT4rv2-3" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;code&gt;Documents complete?&lt;/code&gt;" vertex="1">
+          <mxGeometry height="80" width="95" x="310" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-14" parent="tKead_2X9lGI_ZXT4rv2-3" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;Contact applicant for missing documents&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="540" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-22" parent="tKead_2X9lGI_ZXT4rv2-3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;YES&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-31" parent="tKead_2X9lGI_ZXT4rv2-3" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;Notify applicant by phone or email&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="155" x="502.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-33" parent="tKead_2X9lGI_ZXT4rv2-3" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="END" vertex="1">
+          <mxGeometry height="80" width="120" x="690" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-34" edge="1" parent="tKead_2X9lGI_ZXT4rv2-3" source="tKead_2X9lGI_ZXT4rv2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-12" edge="1" parent="tKead_2X9lGI_ZXT4rv2-1" source="tKead_2X9lGI_ZXT4rv2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.456;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" target="tKead_2X9lGI_ZXT4rv2-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="110" />
+              <mxPoint x="118.4" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-18" edge="1" parent="tKead_2X9lGI_ZXT4rv2-1" source="tKead_2X9lGI_ZXT4rv2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-19" edge="1" parent="tKead_2X9lGI_ZXT4rv2-1" source="tKead_2X9lGI_ZXT4rv2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="tKead_2X9lGI_ZXT4rv2-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="250" />
+              <mxPoint x="620" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-21" edge="1" parent="tKead_2X9lGI_ZXT4rv2-1" source="tKead_2X9lGI_ZXT4rv2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="357.5" y="390" />
+              <mxPoint x="155" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-4" parent="tKead_2X9lGI_ZXT4rv2-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="&lt;ul&gt;&lt;li&gt;Loan Officer / Lending Manager&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="290" width="810" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-23" edge="1" parent="tKead_2X9lGI_ZXT4rv2-4" source="tKead_2X9lGI_ZXT4rv2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-20" parent="tKead_2X9lGI_ZXT4rv2-4" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;Review application manually&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-26" edge="1" parent="tKead_2X9lGI_ZXT4rv2-4" source="tKead_2X9lGI_ZXT4rv2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="130" />
+              <mxPoint x="290" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-24" parent="tKead_2X9lGI_ZXT4rv2-4" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;code&gt;Approve application?&lt;/code&gt;" vertex="1">
+          <mxGeometry height="100" width="110" x="240" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-25" parent="tKead_2X9lGI_ZXT4rv2-4" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;Record approval manually&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="350" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-27" parent="tKead_2X9lGI_ZXT4rv2-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;YES&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="255" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-29" parent="tKead_2X9lGI_ZXT4rv2-4" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;code&gt;Record decline manually&lt;/code&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="495" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-42" parent="tKead_2X9lGI_ZXT4rv2-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;NO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="392" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-39" edge="1" parent="tKead_2X9lGI_ZXT4rv2-4" source="tKead_2X9lGI_ZXT4rv2-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-30" edge="1" parent="tKead_2X9lGI_ZXT4rv2-1" source="tKead_2X9lGI_ZXT4rv2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="550" />
+              <mxPoint x="580" y="550" />
+            </Array>
+            <mxPoint x="440" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKead_2X9lGI_ZXT4rv2-41" edge="1" parent="tKead_2X9lGI_ZXT4rv2-1" source="tKead_2X9lGI_ZXT4rv2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tKead_2X9lGI_ZXT4rv2-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
