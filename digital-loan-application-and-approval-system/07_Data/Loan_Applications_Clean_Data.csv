@@ -1,0 +1,121 @@
+Application_ID,Customer_ID,Submitted_Date,Requested_Amount_JOD,Term_Months,Employment_Type,Current_Status,Turnaround_Days,Current_or_Decision_Reason
+LN-20260001,CUST-0001,2026-02-06,4000,24,Salaried,Declined,6,Affordability threshold not met
+LN-20260002,CUST-0002,2026-03-14,3000,24,Self employed,Under Review,13,Review in progress
+LN-20260003,CUST-0003,2026-03-02,6500,18,Salaried,More Information Required,5,Income document missing
+LN-20260004,CUST-0004,2026-03-04,3000,12,Self employed,Approved,6,Eligibility criteria met
+LN-20260005,CUST-0005,2026-03-05,8000,36,Self employed,Declined,11,Affordability threshold not met
+LN-20260006,CUST-0006,2026-01-25,5000,24,Salaried,Approved,10,Eligibility criteria met
+LN-20260007,CUST-0007,2026-02-08,5000,12,Salaried,Withdrawn,1,Applicant withdrew
+LN-20260008,CUST-0008,2026-02-03,5000,24,Salaried,Withdrawn,2,Applicant withdrew
+LN-20260009,CUST-0009,2026-03-10,2500,24,Self employed,More Information Required,9,Income document missing
+LN-20260010,CUST-0010,2026-03-26,2000,24,Self employed,Approved,10,Eligibility criteria met
+LN-20260011,CUST-0011,2026-02-24,5000,24,Self employed,Approved,1,Eligibility criteria met
+LN-20260012,CUST-0012,2026-02-03,3000,36,Salaried,More Information Required,10,Income document missing
+LN-20260013,CUST-0013,2026-02-24,2500,36,Salaried,More Information Required,13,Income document missing
+LN-20260014,CUST-0014,2026-03-04,4000,18,Salaried,Approved,3,Eligibility criteria met
+LN-20260015,CUST-0015,2026-02-02,4000,18,Self employed,Under Review,11,Review in progress
+LN-20260016,CUST-0016,2026-03-13,4000,36,Salaried,Approved,5,Eligibility criteria met
+LN-20260017,CUST-0017,2026-03-09,3000,18,Self employed,Declined,4,Affordability threshold not met
+LN-20260018,CUST-0018,2026-02-27,8000,36,Salaried,Approved,10,Eligibility criteria met
+LN-20260019,CUST-0019,2026-02-25,8000,18,Salaried,Declined,2,Affordability threshold not met
+LN-20260020,CUST-0020,2026-03-01,3000,36,Salaried,Declined,6,Affordability threshold not met
+LN-20260021,CUST-0021,2026-03-08,5000,24,Self employed,Under Review,6,Review in progress
+LN-20260022,CUST-0022,2026-02-12,3000,36,Salaried,Approved,5,Eligibility criteria met
+LN-20260023,CUST-0023,2026-03-23,1500,18,Self employed,Declined,4,Affordability threshold not met
+LN-20260024,CUST-0024,2026-03-16,2500,36,Salaried,Declined,9,Affordability threshold not met
+LN-20260025,CUST-0025,2026-02-11,2500,24,Salaried,Approved,1,Eligibility criteria met
+LN-20260026,CUST-0026,2026-03-23,2000,12,Salaried,Approved,9,Eligibility criteria met
+LN-20260027,CUST-0027,2026-01-25,4000,12,Salaried,Approved,10,Eligibility criteria met
+LN-20260028,CUST-0028,2026-01-28,3000,36,Salaried,Declined,11,Affordability threshold not met
+LN-20260029,CUST-0029,2026-03-02,1500,18,Self employed,Declined,12,Affordability threshold not met
+LN-20260030,CUST-0030,2026-03-27,5000,36,Self employed,Approved,9,Eligibility criteria met
+LN-20260031,CUST-0031,2026-03-27,5000,12,Self employed,Under Review,3,Review in progress
+LN-20260032,CUST-0032,2026-01-18,2000,18,Self employed,Approved,6,Eligibility criteria met
+LN-20260033,CUST-0033,2026-02-08,8000,12,Self employed,Under Review,4,Review in progress
+LN-20260034,CUST-0034,2026-02-05,3000,18,Salaried,Approved,8,Eligibility criteria met
+LN-20260035,CUST-0035,2026-02-17,2000,36,Salaried,Under Review,14,Review in progress
+LN-20260036,CUST-0036,2026-03-18,2500,24,Self employed,More Information Required,6,Income document missing
+LN-20260037,CUST-0037,2026-01-20,4000,18,Salaried,Under Review,14,Review in progress
+LN-20260038,CUST-0038,2026-02-18,2500,24,Self employed,Under Review,8,Review in progress
+LN-20260039,CUST-0039,2026-01-16,2500,24,Salaried,Under Review,10,Review in progress
+LN-20260040,CUST-0040,2026-02-03,2000,36,Salaried,Declined,6,Affordability threshold not met
+LN-20260041,CUST-0041,2026-01-03,6500,24,Salaried,Under Review,8,Review in progress
+LN-20260042,CUST-0042,2026-01-05,8000,24,Self employed,Approved,6,Eligibility criteria met
+LN-20260043,CUST-0043,2026-03-21,5000,18,Self employed,Declined,10,Affordability threshold not met
+LN-20260044,CUST-0044,2026-01-07,4000,24,Self employed,Approved,4,Eligibility criteria met
+LN-20260045,CUST-0045,2026-02-21,2000,18,Self employed,Declined,5,Affordability threshold not met
+LN-20260046,CUST-0046,2026-03-21,1500,36,Self employed,Approved,6,Eligibility criteria met
+LN-20260047,CUST-0047,2026-02-15,4000,18,Self employed,Declined,12,Affordability threshold not met
+LN-20260048,CUST-0048,2026-03-23,3000,18,Salaried,Approved,6,Eligibility criteria met
+LN-20260049,CUST-0049,2026-02-22,6500,18,Self employed,Under Review,3,Review in progress
+LN-20260050,CUST-0050,2026-03-15,2500,12,Salaried,More Information Required,16,Income document missing
+LN-20260051,CUST-0051,2026-01-22,6500,36,Self employed,Approved,7,Eligibility criteria met
+LN-20260052,CUST-0052,2026-02-07,3000,18,Self employed,Declined,6,Affordability threshold not met
+LN-20260053,CUST-0053,2026-03-16,2000,12,Salaried,Approved,7,Eligibility criteria met
+LN-20260054,CUST-0054,2026-01-07,4000,18,Self employed,Declined,8,Affordability threshold not met
+LN-20260055,CUST-0055,2026-02-02,2000,12,Self employed,Approved,5,Eligibility criteria met
+LN-20260056,CUST-0056,2026-02-21,4000,36,Self employed,Under Review,18,Review in progress
+LN-20260057,CUST-0057,2026-03-18,1500,24,Salaried,Under Review,1,Review in progress
+LN-20260058,CUST-0058,2026-03-12,4000,36,Salaried,More Information Required,10,Income document missing
+LN-20260059,CUST-0059,2026-02-12,2000,36,Self employed,Under Review,2,Review in progress
+LN-20260060,CUST-0060,2026-01-01,8000,12,Self employed,Approved,6,Eligibility criteria met
+LN-20260061,CUST-0061,2026-01-20,2500,12,Salaried,Declined,7,Affordability threshold not met
+LN-20260062,CUST-0062,2026-01-21,2000,18,Self employed,More Information Required,15,Income document missing
+LN-20260063,CUST-0063,2026-03-04,4000,12,Salaried,Approved,1,Eligibility criteria met
+LN-20260064,CUST-0064,2026-02-10,4000,24,Salaried,Declined,11,Affordability threshold not met
+LN-20260065,CUST-0065,2026-03-15,6500,12,Self employed,Declined,1,Affordability threshold not met
+LN-20260066,CUST-0066,2026-02-25,5000,12,Self employed,Declined,12,Affordability threshold not met
+LN-20260067,CUST-0067,2026-03-04,8000,18,Salaried,Approved,5,Eligibility criteria met
+LN-20260068,CUST-0068,2026-03-22,1500,18,Self employed,More Information Required,5,Income document missing
+LN-20260069,CUST-0069,2026-02-26,2000,12,Self employed,More Information Required,4,Income document missing
+LN-20260070,CUST-0070,2026-02-19,6500,18,Self employed,Declined,11,Affordability threshold not met
+LN-20260071,CUST-0071,2026-01-22,3000,24,Self employed,More Information Required,11,Income document missing
+LN-20260072,CUST-0072,2026-01-27,3000,18,Self employed,Approved,10,Eligibility criteria met
+LN-20260073,CUST-0073,2026-02-20,6500,12,Salaried,Approved,6,Eligibility criteria met
+LN-20260074,CUST-0074,2026-02-02,3000,24,Self employed,Withdrawn,1,Applicant withdrew
+LN-20260075,CUST-0075,2026-03-18,6500,12,Salaried,Under Review,2,Review in progress
+LN-20260076,CUST-0076,2026-03-06,5000,24,Self employed,More Information Required,11,Income document missing
+LN-20260077,CUST-0077,2026-02-04,4000,18,Salaried,More Information Required,15,Income document missing
+LN-20260078,CUST-0078,2026-01-23,8000,36,Salaried,Under Review,17,Review in progress
+LN-20260079,CUST-0079,2026-02-22,2500,36,Salaried,Under Review,13,Review in progress
+LN-20260080,CUST-0080,2026-03-01,3000,36,Self employed,Approved,3,Eligibility criteria met
+LN-20260081,CUST-0081,2026-03-12,3000,24,Self employed,Approved,7,Eligibility criteria met
+LN-20260082,CUST-0082,2026-01-16,2500,18,Self employed,Declined,2,Affordability threshold not met
+LN-20260083,CUST-0083,2026-02-09,4000,36,Salaried,Approved,6,Eligibility criteria met
+LN-20260084,CUST-0084,2026-01-17,4000,18,Salaried,Declined,12,Affordability threshold not met
+LN-20260085,CUST-0085,2026-03-02,5000,18,Self employed,Approved,2,Eligibility criteria met
+LN-20260086,CUST-0086,2026-03-06,3000,18,Salaried,Under Review,7,Review in progress
+LN-20260087,CUST-0087,2026-03-15,1500,36,Self employed,Declined,12,Affordability threshold not met
+LN-20260088,CUST-0088,2026-01-01,8000,12,Salaried,Approved,10,Eligibility criteria met
+LN-20260089,CUST-0089,2026-03-02,4000,18,Self employed,More Information Required,13,Income document missing
+LN-20260090,CUST-0090,2026-01-24,5000,24,Self employed,Approved,12,Eligibility criteria met
+LN-20260091,CUST-0091,2026-03-24,8000,36,Salaried,Declined,5,Affordability threshold not met
+LN-20260092,CUST-0092,2026-02-18,6500,24,Salaried,Approved,5,Eligibility criteria met
+LN-20260093,CUST-0093,2026-02-02,5000,12,Self employed,More Information Required,5,Income document missing
+LN-20260094,CUST-0094,2026-03-04,2000,18,Salaried,Under Review,12,Review in progress
+LN-20260095,CUST-0095,2026-02-28,5000,36,Self employed,Under Review,6,Review in progress
+LN-20260096,CUST-0096,2026-01-20,8000,18,Self employed,Under Review,16,Review in progress
+LN-20260097,CUST-0097,2026-01-25,3000,12,Self employed,Approved,9,Eligibility criteria met
+LN-20260098,CUST-0098,2026-03-10,8000,18,Self employed,Declined,5,Affordability threshold not met
+LN-20260099,CUST-0099,2026-02-03,5000,36,Self employed,Declined,5,Affordability threshold not met
+LN-20260100,CUST-0100,2026-03-25,6500,18,Self employed,Under Review,1,Review in progress
+LN-20260101,CUST-0101,2026-01-21,5000,12,Self employed,Withdrawn,1,Applicant withdrew
+LN-20260102,CUST-0102,2026-03-12,5000,24,Salaried,Approved,5,Eligibility criteria met
+LN-20260103,CUST-0103,2026-01-25,1500,36,Salaried,Approved,8,Eligibility criteria met
+LN-20260104,CUST-0104,2026-01-25,5000,24,Self employed,Declined,10,Affordability threshold not met
+LN-20260105,CUST-0105,2026-01-01,4000,24,Self employed,Under Review,18,Review in progress
+LN-20260106,CUST-0106,2026-01-22,3000,36,Salaried,Approved,9,Eligibility criteria met
+LN-20260107,CUST-0107,2026-03-25,5000,24,Salaried,Under Review,3,Review in progress
+LN-20260108,CUST-0108,2026-03-07,4000,12,Self employed,Approved,9,Eligibility criteria met
+LN-20260109,CUST-0109,2026-03-24,4000,24,Self employed,Declined,12,Affordability threshold not met
+LN-20260110,CUST-0110,2026-01-10,3000,12,Salaried,Declined,10,Affordability threshold not met
+LN-20260111,CUST-0111,2026-01-03,4000,12,Salaried,Declined,2,Affordability threshold not met
+LN-20260112,CUST-0112,2026-03-10,3000,36,Salaried,Approved,6,Eligibility criteria met
+LN-20260113,CUST-0113,2026-02-19,6500,18,Salaried,Approved,9,Eligibility criteria met
+LN-20260114,CUST-0114,2026-02-23,5000,12,Self employed,More Information Required,16,Income document missing
+LN-20260115,CUST-0115,2026-01-09,1500,24,Salaried,Declined,2,Affordability threshold not met
+LN-20260116,CUST-0116,2026-03-24,3000,12,Self employed,Approved,7,Eligibility criteria met
+LN-20260117,CUST-0117,2026-02-05,3000,24,Salaried,Under Review,7,Review in progress
+LN-20260118,CUST-0118,2026-01-21,4000,36,Self employed,Under Review,3,Review in progress
+LN-20260119,CUST-0119,2026-02-19,6500,18,Salaried,More Information Required,14,Income document missing
+LN-20260120,CUST-0120,2026-02-06,4000,18,Self employed,Approved,7,Eligibility criteria met
